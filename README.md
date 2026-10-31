@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sandy_heron_7722), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Record Filter](./practice/python/record-filter) | Python | Easy | 2026-07-31 |
 | [What the Card Remembers](./practice/python/what-the-card-remembers) | Python | Medium | 2026-07-31 |
 | [Largest CDN Response](./practice/sql/largest-cdn-response) | SQL | Hard | 2026-07-31 |
 | [Click Revenue](./practice/sql/click-revenue) | SQL | Easy | 2026-07-30 |
