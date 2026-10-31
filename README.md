@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sandy_heron_7722), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Two Names on the Ledger](./practice/sql/two-names-on-the-ledger) | SQL | Easy | 2026-08-05 |
 | [Returning Buyers](./practice/sql/returning-buyers) | SQL | Medium | 2026-08-05 |
 | [Regional Sales Growth QoQ](./practice/sql/regional-sales-growth-qoq) | SQL | Hard | 2026-08-05 |
 | [Longest Deploy With Full Identifier](./practice/sql/longest-deploy-with-full-identifier) | SQL | Easy | 2026-08-05 |
