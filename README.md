@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sandy_heron_7722), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Against the House](./practice/python/against-the-house) | Python | Medium | 2026-08-05 |
 | [The Fallback Layer](./practice/python/the-fallback-layer) | Python | Easy | 2026-08-05 |
 | [Char Profile](./practice/python/char-profile) | Python | Medium | 2026-08-05 |
 | [Letters in the Noise](./practice/python/letters-in-the-noise) | Python | Easy | 2026-08-05 |
