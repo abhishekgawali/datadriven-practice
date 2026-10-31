@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sandy_heron_7722), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Active Campaigns](./practice/sql/active-campaigns) | SQL | Easy | 2026-08-05 |
 | [Above Average Product Prices](./practice/sql/above-average-product-prices) | SQL | Medium | 2026-08-05 |
 | [Above Average Interactions](./practice/sql/above-average-interactions) | SQL | Easy | 2026-08-05 |
 | [Where the Money Burns](./practice/sql/where-the-money-burns) | SQL | Medium | 2026-08-05 |
