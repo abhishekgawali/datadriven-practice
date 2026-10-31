@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sandy_heron_7722), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Click Revenue](./practice/sql/click-revenue) | SQL | Easy | 2026-07-30 |
 | [30-Day Page View Counts](./practice/sql/30-day-page-view-counts) | SQL | Easy | 2026-07-29 |
 | [The Sequel Spotter](./practice/python/the-sequel-spotter) | Python | Easy | 2026-07-28 |
 | [Point of Entry](./practice/sql/point-of-entry) | SQL | Hard | 2026-07-28 |
