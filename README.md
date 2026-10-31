@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sandy_heron_7722), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Weekly Build Status Report](./practice/sql/weekly-build-status-report) | SQL | Hard | 2026-08-18 |
 | [The Bit Counter](./practice/python/the-bit-counter) | Python | Easy | 2026-08-18 |
 | [Two Names on the Ledger](./practice/sql/two-names-on-the-ledger) | SQL | Easy | 2026-08-05 |
 | [Returning Buyers](./practice/sql/returning-buyers) | SQL | Medium | 2026-08-05 |
