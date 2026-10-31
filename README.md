@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sandy_heron_7722), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Birds of a Feather](./practice/python/birds-of-a-feather) | Python | Medium | 2026-08-05 |
 | [Busiest Pipeline Month](./practice/sql/busiest-pipeline-month) | SQL | Medium | 2026-08-05 |
 | [Users With Purchase Events](./practice/sql/users-with-purchase-events) | SQL | Easy | 2026-08-03 |
 | [Record Filter](./practice/python/record-filter) | Python | Easy | 2026-07-31 |
