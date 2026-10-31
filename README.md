@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sandy_heron_7722), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Bouncer](./practice/python/the-bouncer) | Python | Easy | 2026-09-01 |
 | [The Publishing Audit](./practice/sql/the-publishing-audit) | SQL | Easy | 2026-08-22 |
 | [Weekly Build Status Report](./practice/sql/weekly-build-status-report) | SQL | Hard | 2026-08-18 |
 | [The Bit Counter](./practice/python/the-bit-counter) | Python | Easy | 2026-08-18 |
