@@ -1,2 +1,17 @@
-# datadriven-practice
-Scored data engineering practice from datadriven.io
+# sandy_heron_7722's data engineering practice
+
+Scored work from [DataDriven](https://datadriven.io/u/sandy_heron_7722), committed here as it is scored. Each folder holds the work exactly as submitted and the report it earned.
+
+<!-- datadriven:index:start -->
+
+## Practice
+
+| Problem | Domain | Difficulty | Solved |
+|---|---|---|---|
+| [Consistent High-Quantity Revenue](./practice/sql/consistent-high-quantity-revenue) | SQL | Medium | 2026-07-26 |
+
+<!-- datadriven:index:end -->
+
+---
+
+Synced by [DataDriven](https://datadriven.io). Solve a problem there and it lands here.
