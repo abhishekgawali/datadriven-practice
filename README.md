@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sandy_heron_7722), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Highest and Lowest Cloud Costs](./practice/sql/highest-and-lowest-cloud-costs) | SQL | Medium | 2026-08-05 |
 | [First Migration Record](./practice/sql/first-migration-record) | SQL | Easy | 2026-08-05 |
 | [Duplicated User Event Messages](./practice/sql/duplicated-user-event-messages) | SQL | Medium | 2026-08-05 |
 | [Device Type Serving Most Users](./practice/sql/device-type-serving-most-users) | SQL | Medium | 2026-08-05 |
