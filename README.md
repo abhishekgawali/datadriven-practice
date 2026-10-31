@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sandy_heron_7722), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Parallel Traces](./practice/sql/parallel-traces) | SQL | Medium | 2026-08-05 |
 | [The Heavy Hitters](./practice/sql/the-heavy-hitters) | SQL | Easy | 2026-08-05 |
 | [Echo Chamber](./practice/sql/echo-chamber) | SQL | Medium | 2026-08-05 |
 | [Active Campaigns](./practice/sql/active-campaigns) | SQL | Easy | 2026-08-05 |
