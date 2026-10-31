@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sandy_heron_7722), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Duplicated User Event Messages](./practice/sql/duplicated-user-event-messages) | SQL | Medium | 2026-08-05 |
 | [Device Type Serving Most Users](./practice/sql/device-type-serving-most-users) | SQL | Medium | 2026-08-05 |
 | [Both Ways](./practice/sql/both-ways) | SQL | Hard | 2026-08-05 |
 | [Parallel Traces](./practice/sql/parallel-traces) | SQL | Medium | 2026-08-05 |
