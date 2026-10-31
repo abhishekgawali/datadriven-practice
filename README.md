@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sandy_heron_7722), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Letters in the Noise](./practice/python/letters-in-the-noise) | Python | Easy | 2026-08-05 |
 | [Birds of a Feather](./practice/python/birds-of-a-feather) | Python | Medium | 2026-08-05 |
 | [Busiest Pipeline Month](./practice/sql/busiest-pipeline-month) | SQL | Medium | 2026-08-05 |
 | [Users With Purchase Events](./practice/sql/users-with-purchase-events) | SQL | Easy | 2026-08-03 |
