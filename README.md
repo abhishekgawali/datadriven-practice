@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sandy_heron_7722), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Point of Entry](./practice/sql/point-of-entry) | SQL | Hard | 2026-07-28 |
 | [The Complement Hunt](./practice/python/the-complement-hunt) | Python | Easy | 2026-07-27 |
 | [Messages Containing Keyword](./practice/sql/messages-containing-keyword) | SQL | Easy | 2026-07-27 |
 | [The Ones That Count](./practice/python/the-ones-that-count) | Python | Easy | 2026-07-26 |
