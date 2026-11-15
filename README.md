@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sandy_heron_7722), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Daily Error Count Change](./practice/sql/daily-error-count-change) | SQL | Medium | 2026-11-15 |
 | [10 Lowest Uptime Services](./practice/sql/10-lowest-uptime-services) | SQL | Medium | 2026-11-15 |
 | [Bronze Medal](./practice/sql/bronze-medal) | SQL | Easy | 2026-11-15 |
 | [The Squeeze](./practice/python/the-squeeze) | Python | Easy | 2026-10-31 |
