@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sandy_heron_7722), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Bronze Medal](./practice/sql/bronze-medal) | SQL | Easy | 2026-11-15 |
 | [The Squeeze](./practice/python/the-squeeze) | Python | Easy | 2026-10-31 |
 | [The Bouncer](./practice/python/the-bouncer) | Python | Easy | 2026-09-01 |
 | [The Publishing Audit](./practice/sql/the-publishing-audit) | SQL | Easy | 2026-08-22 |
