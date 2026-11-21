@@ -34,7 +34,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sandy_heron_7722), committ
 | [Echo Chamber](./practice/sql/echo-chamber) | SQL | Medium | 2026-08-05 |
 | [Active Campaigns](./practice/sql/active-campaigns) | SQL | Easy | 2026-08-05 |
 | [Above Average Product Prices](./practice/sql/above-average-product-prices) | SQL | Medium | 2026-08-05 |
-| [Above Average Interactions](./practice/sql/above-average-interactions) | SQL | Easy | 2026-08-05 |
+| [Above Average Interactions](./practice/sql/above-average-interactions) | SQL | Medium | 2026-08-05 |
 | [Where the Money Burns](./practice/sql/where-the-money-burns) | SQL | Medium | 2026-08-05 |
 | [Against the House](./practice/python/against-the-house) | Python | Medium | 2026-08-05 |
 | [The Fallback Layer](./practice/python/the-fallback-layer) | Python | Easy | 2026-08-05 |
