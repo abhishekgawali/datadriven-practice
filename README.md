@@ -20,7 +20,7 @@ Scored work from [DataDriven](https://datadriven.io/u/sandy_heron_7722), committ
 | [Price Rank](./practice/sql/price-rank) | SQL | Medium | 2026-08-18 |
 | [Two Names on the Ledger](./practice/sql/two-names-on-the-ledger) | SQL | Easy | 2026-08-05 |
 | [Returning Buyers](./practice/sql/returning-buyers) | SQL | Medium | 2026-08-05 |
-| [Regional Sales Growth QoQ](./practice/sql/regional-sales-growth-qoq) | SQL | Hard | 2026-08-05 |
+| [Regional Sales Growth QoQ](./practice/sql/regional-sales-growth-qoq) | SQL | Medium | 2026-08-05 |
 | [Longest Deploy With Full Identifier](./practice/sql/longest-deploy-with-full-identifier) | SQL | Easy | 2026-08-05 |
 | [Last Migration Record](./practice/sql/last-migration-record) | SQL | Easy | 2026-08-05 |
 | [Inactive Users in Date Range](./practice/sql/inactive-users-in-date-range) | SQL | Medium | 2026-08-05 |
